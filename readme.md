@@ -1,4 +1,8 @@
 
-# Checkout Different Branches for different types of projects
+# Tailwind CSS Projects (repos Link) 
 
-##  HTML CSS Projects Branch -  [click here](https://github.com/Ashish-Nagar-027/FSJS-All-Projects-link/tree/Ashish-Nagar-027-HTML-CSS-projects-1)
+- Rode Homepage clone  - [click here](https://github.com/Ashish-Nagar-027/Rode.com-clone-with-tailwind)
+
+- Shopify Homepage clone  - [click here](https://github.com/Ashish-Nagar-027/shopify-clone-with-tailwind)
+
+- Paytm Homepage clone  - [click here](https://github.com/Ashish-Nagar-027/Paytm-Clone-with-Tailwind)
